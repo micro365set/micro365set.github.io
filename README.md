@@ -38,7 +38,7 @@ After you purchase **25 digit Mícrosoft Office 365 product key**, then follow b
 
 ## What are the steps for Creating Mícrosoft365.com/sétup Account ?
 
-Even though you can register for an Mícrosoft 365 account in a few methods via https://Mícrosoft365comsetup, here the common method is shown that you can follow to create an account;
+Even though you can register for an Mícrosoft 365 account in a few methods via Mícrosoft365.com/setup, here the common method is shown that you can follow to create an account;
 
 * Go to **[Mícrosoft365.com/sétup](https://micro365set.github.io/)**
 * Otherwise, reach the Mícrosoft Cloud Partner site.
